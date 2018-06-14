@@ -1,0 +1,50 @@
+* {
+   border: 1px solid black;
+}
+
+body {
+  margin: 0;
+}
+
+nav span {
+  display: inline-block;
+  padding: 20px 10px;
+}
+
+header {
+display: flex;
+font-family: veranda, sans-serif;
+font-size: 14px;
+font-weight: bold;
+align-items: center;
+position: fixed;
+z-index: 1;
+width: 100%;
+height: 80px;
+border-bottom: 1px solid black;
+background-color: white;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  flex-grow: 1;
+  padding-left: 30px;
+
+.logo img {
+  width 70px;
+  height 60px;
+  margin-right: 12px;
+}
+
+.logo span {
+  color: mediumaquamarine;
+
+header nav {
+  padding-right: 40px;
+}
+
+.large {
+border: 3px solid black;
+
+}
