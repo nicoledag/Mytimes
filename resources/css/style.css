@@ -44,7 +44,37 @@ header nav {
   padding-right: 40px;
 }
 
+
+}
 .large {
-border: 3px solid black;
+  width: 630px;
+}
+
+.medium {
+ width: 300px;
+}
+
+.small {
+  width: 240px;
+}
+
+.image1 {
+  background-image: url("./resources/images/img-story-main.png");
+}
+
+.image2 {
+background-image: url("./resources/images/img-story-2.png");
+}
+
+.image3 {
+background-image: url("./resources/images/img-story-3.png");
+}
+
+.images4 span {
+background-image: url("./resources/images/img-story-1.png");
+}
+
+.images5 h1 {
+  background-image: url("./resources/images/img-news-bite.png)";
 
 }
